@@ -1,5 +1,5 @@
 # UnityCopilot - Editor Script
-Unity editor script to integrate the editor with UnityCopilot.com<br>
+Unity editor script to integrate the editor with <a href="https://www.UnityCopilot.com">UnityCopilot.com</a><br>
 <h2>How to Install (2 ways):</h2>
 <ul>
   <li>Download the <a href="https://github.com/OBalfaqih/UnityCopilot-Editor/tree/master/Editor">script</a> and place it in the Editor folder.</li>
