@@ -2,8 +2,8 @@
 Unity editor script to integrate the editor with UnityCopilot.com<br>
 <h2>How to Install (2 ways):</h2>
 <ul>
-  <li>Download the script and place it in the Editor folder.</li>
-  <li>Or, you can download the package and import it to your project.</li>
+  <li>Download the <a href="https://github.com/OBalfaqih/UnityCopilot-Editor/tree/master/Editor">script</a> and place it in the Editor folder.</li>
+  <li>Or, you can download the <a href="https://github.com/OBalfaqih/UnityCopilot-Editor/blob/master/UnityCopilot-EditorScript.unitypackage">package</a> and import it to your project.</li>
 </ul>
 
 <h2>How to Use:</h2>
